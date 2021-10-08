@@ -21,7 +21,7 @@ Scope options are:
 - MySQL **8.x.x** or higher
 
 # Instalattion
-It is possible to install the LogEvents module for Magento 2 via [.zip](https://github.com/rzufil/LogEvents/archive/master.zip) or via [Git](https://github.com).
+It is possible to install the LogEvents module for Magento 2 via [.zip](https://github.com/rzufil/LogEvents/archive/main.zip) or via [Git](https://github.com).
 
 #### Via [git](https://github.com)
 - Go to the Magento root directory and add the module
@@ -31,10 +31,10 @@ It is possible to install the LogEvents module for Magento 2 via [.zip](https://
 - The ​**LogEvents**​​ module should be displayed in the list of Magento modules
     - `bin/magento module:status`
 
-#### Via [.zip](https://github.com/rzufil/LogEvents/archive/master.zip)
+#### Via [.zip](https://github.com/rzufil/LogEvents/archive/main.zip)
 - Create the following folder (s) inside the Magento ​app​​ folder
     - `code/Rzufil/LogEvents`
-- Download [.zip](https://github.com/rzufil/LogEvents/archive/master.zip)
+- Download [.zip](https://github.com/rzufil/LogEvents/archive/main.zip)
 - The path should be ​**app / code / Rzufil / LogEvents**
 - Extract the **​.zip**​​ files into the ​**LogEvents** folder
 - In the root directory, update the available Magento modules
