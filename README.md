@@ -20,7 +20,7 @@ Scope options are:
 - PHP **7.x.x** or higher
 - MySQL **8.x.x** or higher
 
-# Instalattion
+# Installation
 It is possible to install the LogEvents module for Magento 2 via [.zip](https://github.com/rzufil/LogEvents/archive/main.zip) or via [Git](https://github.com).
 
 #### Via [git](https://github.com)
